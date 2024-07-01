@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5457eef41867cf4e97ed5e96508d302, type: 3}
+  m_Name: role45
+  m_EditorClassIdentifier: 
+  roleID: 45
+  roleName: "\u5819\u706D\u523A\u5BA2"
+  roleType: 2
+  roleDescription: "\u5819\u706D\u523A\u5BA2"
+  atk: 6
+  def: 2
+  hp: 7
+  move: 6
+  range: 1
+  size: 1
+  price: 1
+  moveTimes: 1
+  attackTimes: 1
+  backAttackTimes: 1
+  skills: []
